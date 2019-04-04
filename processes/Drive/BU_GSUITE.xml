@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalList xmlStructureRevision="1.1">
+  <Name>BU_GSUITE</Name>
+  <ParticipantName></ParticipantName>
+  <Content>
+    <Databind DatabindConnectionMode="none">
+    </Databind>
+    <Headers>
+       <Header Name="col1" Type="TEXT">Value</Header>
+      <Header Name="col2" Type="TEXT">Domain</Header>
+      <Header Name="col3" Type="TEXT">Bu</Header>
+      <Header Name="col4" Type="TEXT">IdDomainFolder</Header>
+    </Headers>
+    <Items>
+      <Item>
+        <Column Name="col1">
+          <Value Lang="default">Aviation</Value>
+        </Column>
+        <Column Name="col2">
+          <Value Lang="default">Aviation</Value>
+        </Column>
+        <Column Name="col3">
+          <Value Lang="default">Aerospace</Value>
+        </Column>
+        <Column Name="col4">
+          <Value Lang="default"></Value>
+        </Column>
+      </Item>
+      <Item>
+        <Column Name="col1">
+          <Value Lang="default">Space</Value>
+        </Column>
+        <Column Name="col2">
+          <Value Lang="default">Space</Value>
+        </Column>
+        <Column Name="col3">
+          <Value Lang="default">Aerospace</Value>
+        </Column>
+        <Column Name="col4">
+          <Value Lang="default"></Value>
+        </Column>
+      </Item>
+      <Item>
+        <Column Name="col1">
+          <Value Lang="default">Defense</Value>
+        </Column>
+        <Column Name="col2">
+          <Value Lang="default">Defense</Value>
+        </Column>
+        <Column Name="col3">
+          <Value Lang="default">Aerospace</Value>
+        </Column>
+        <Column Name="col4">
+          <Value Lang="default"></Value>
+        </Column>
+      </Item>
+      <Item>
+        <Column Name="col1">
+          <Value Lang="default">Marine</Value>
+        </Column>
+        <Column Name="col2">
+          <Value Lang="default">Marine</Value>
+        </Column>
+        <Column Name="col3">
+          <Value Lang="default">Transport</Value>
+        </Column>
+        <Column Name="col4">
+          <Value Lang="default"></Value>
+        </Column>
+      </Item>
+      <Item>
+        <Column Name="col1">
+          <Value Lang="default">Racing</Value>
+        </Column>
+        <Column Name="col2">
+          <Value Lang="default">Racing</Value>
+        </Column>
+        <Column Name="col3">
+          <Value Lang="default">Transport</Value>
+        </Column>
+        <Column Name="col4">
+          <Value Lang="default"></Value>
+        </Column>
+      </Item>
+      <Item>
+        <Column Name="col1">
+          <Value Lang="default">Rail</Value>
+        </Column>
+        <Column Name="col2">
+          <Value Lang="default">Rail</Value>
+        </Column>
+        <Column Name="col3">
+          <Value Lang="default">Transport</Value>
+        </Column>
+        <Column Name="col4">
+          <Value Lang="default"></Value>
+        </Column>
+      </Item>
+      <Item>
+        <Column Name="col1">
+          <Value Lang="default">IoT</Value>
+        </Column>
+        <Column Name="col2">
+          <Value Lang="default">IoT</Value>
+        </Column>
+        <Column Name="col3">
+          <Value Lang="default">Telecom</Value>
+        </Column>
+        <Column Name="col4">
+          <Value Lang="default"></Value>
+        </Column>
+      </Item>
+      <Item>
+        <Column Name="col1">
+          <Value Lang="default">Metering</Value>
+        </Column>
+        <Column Name="col2">
+          <Value Lang="default">Metering</Value>
+        </Column>
+        <Column Name="col3">
+          <Value Lang="default">Telecom</Value>
+        </Column>
+        <Column Name="col4">
+          <Value Lang="default"></Value>
+        </Column>
+      </Item>
+      <Item>
+        <Column Name="col1">
+          <Value Lang="default">Telecom</Value>
+        </Column>
+        <Column Name="col2">
+          <Value Lang="default">Telecom</Value>
+        </Column>
+        <Column Name="col3">
+          <Value Lang="default">Telecom</Value>
+        </Column>
+        <Column Name="col4">
+          <Value Lang="default"></Value>
+        </Column>
+      </Item>
+    </Items>
+  </Content>
+</GlobalList>
+
