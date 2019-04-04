@@ -130,6 +130,11 @@ if(Test-Path $settings.WebAppPath)
         Write-Host $message
         LaunchGSuiteDownload
 
+        #Copy WorkflowGenGsuite dll
+        Copy-Item "$PSScriptRoot\Advantys.Workflow.Applications.GSuite.dll" -Destination "$webPath\bin"
+        Copy-Item "$PSScriptRoot\Advantys.Workflow.Applications.GSuite.dll" -Destination "$webPath\ws\bin"
+        Copy-Item "$PSScriptRoot\Advantys.Workflow.Applications.GSuite.dll" -Destination "$servicePath\bin"
+
     }
     else
     {
